@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1512156988 source:c:\users\sajib\desktop\project_medical\main.c
+	<stdio.h>
+	"presentation.h"
+
+1512156988 c:\users\sajib\desktop\project_medical\presentation.h
+
+1512163441 source:c:\users\sajib\desktop\project_medical\presentation.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+
+1512160195 source:c:\users\sajib\desktop\dynamic memory allocation\doctor_staff.c
+	"main.h"
+
+1512156213 c:\users\sajib\desktop\dynamic memory allocation\main.h
+
+1512159850 source:c:\users\sajib\desktop\dynamic memory allocation\insert.c
+	<stdio.h>
+
+1512164152 source:c:\users\sajib\desktop\project_medical\doctor_staff.c
+	"main.h"
+
+1512162786 c:\users\sajib\desktop\project_medical\main.h
+	<stdlib.h>
+	<stdio.h>
+	"presentation.h"
+	"doctor_staff.h"
+
+1512162773 c:\users\sajib\desktop\project_medical\doctor_staff.h
+
+1512163106 source:c:\users\sajib\desktop\project_medical\insert.c
+

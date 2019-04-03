@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1512505648 source:c:\users\sajib\desktop\project medical\main.c
+	<stdio.h>
+	"presentation.h"
+	"main.h"
+
+1512325591 c:\users\sajib\desktop\project medical\presentation.h
+
+1512505648 source:c:\users\sajib\desktop\project medical\presentation.c
+	<stdio.h>
+	<stdlib.h>
+	"main.h"
+	"delete.h"
+
+1512358569 c:\users\sajib\desktop\project medical\main.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"presentation.h"
+	"doctor_staff.h"
+	"structure.h"
+	"view.h"
+	"delete.h"
+
+1512242014 c:\users\sajib\desktop\project medical\doctor_staff.h
+
+1512423843 source:c:\users\sajib\desktop\project medical\doctor_staff.c
+	"main.h"
+
+1512416392 c:\users\sajib\desktop\project medical\structure.h
+
+1512302782 c:\users\sajib\desktop\project medical\view.h
+
+1512423843 source:c:\users\sajib\desktop\project medical\view.c
+	"main.h"
+
+1512423843 source:c:\users\sajib\desktop\project medical\delete.c
+	"main.h"
+	<stdio.h>
+
+1512502073 c:\users\sajib\desktop\project medical\delete.h
+
+1512423843 source:c:\users\sajib\desktop\project medical\update.c
+	"main.h"
+	<stdio.h>
+
+1512507225 source:c:\users\sajib\desktop\project medical\search.c
+	"main.h"
+
+1512408214 source:c:\users\sajib\desktop\project medical\structure.c
+
+1512506150 source:c:\users\sajib\desktop\project medical\password.c
+	"main.h"
+
